@@ -54,6 +54,9 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
+.img {
+	height: 10%;
+}
 
 mark {
 	background-color: transparent;
